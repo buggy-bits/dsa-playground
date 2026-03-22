@@ -1,20 +1,14 @@
 """
 Creates a new problem folder + Solution.java template.
-Run this for every problem you solve.
-Does NOT commit - that happens in push.py at end of day.
+Run this for every problem.
 """
 
 import os
 import re
+import json
 from datetime import datetime
 
-PLATFORMS = {
-    "1": ("leetcode", "LeetCode"),
-    "2": ("gfg", "GeeksForGeeks"),
-    "3": ("codeforces", "Codeforces"),
-    "4": ("hackerrank", "HackerRank"),
-    "5": ("neetcode", "NeetCode"),
-}
+FOLDERS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "folders.json")
 
 
 def get_repo_root():
@@ -29,6 +23,18 @@ def slugify(title):
     return slug
 
 
+def load_folders():
+    if os.path.exists(FOLDERS_FILE):
+        with open(FOLDERS_FILE, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+
+def save_folders(folders):
+    with open(FOLDERS_FILE, "w", encoding="utf-8") as f:
+        json.dump(sorted(set(folders)), f, indent=2)
+
+
 def main():
     repo_root = get_repo_root()
     os.chdir(repo_root)
@@ -39,20 +45,46 @@ def main():
     print("=" * 50)
     print()
 
-    print("  Select platform:")
-    for key, (_, display) in PLATFORMS.items():
-        print(f"    {key}. {display}")
-    print(f"    0. Other (custom)")
-    print()
+    # ── Pick or create folder ─────────────────────────────
+    existing = load_folders()
 
-    choice = input("  Platform [1]: ").strip() or "1"
+    if existing:
+        print("  Your folders:")
+        for i, name in enumerate(existing, 1):
+            print(f"    {i}. {name}")
+        print(f"    0. Create new folder")
+        print()
 
-    if choice in PLATFORMS:
-        platform_folder, platform_display = PLATFORMS[choice]
+        choice = input("  Select folder [0]: ").strip() or "0"
+
+        if choice.isdigit() and 1 <= int(choice) <= len(existing):
+            folder_name = existing[int(choice) - 1]
+        else:
+            folder_name = input("  New folder name (e.g. leetcode-150): ").strip()
+            folder_name = slugify(folder_name)
+
+            if not folder_name:
+                print("  Folder name cannot be empty. Aborted.")
+                return
+
+            existing.append(folder_name)
+            save_folders(existing)
+            print(f"  Saved '{folder_name}' — it will show up next time.")
     else:
-        platform_folder = input("  Folder name (lowercase): ").strip().lower()
-        platform_display = input("  Display name: ").strip()
+        print("  No folders yet. Let's create your first one.")
+        print()
+        folder_name = input("  Folder name (e.g. leetcode-150): ").strip()
+        folder_name = slugify(folder_name)
 
+        if not folder_name:
+            print("  Folder name cannot be empty. Aborted.")
+            return
+
+        existing.append(folder_name)
+        save_folders(existing)
+        print(f"  Saved '{folder_name}' — it will show up next time.")
+
+    # ── Problem details ───────────────────────────────────
     print()
     num_input = input("  Problem Number: ").strip()
     num = int(num_input) if num_input.isdigit() else 0
@@ -60,15 +92,15 @@ def main():
     title = input("  Problem Title: ").strip()
     url = input("  Problem URL: ").strip()
     difficulty = input("  Difficulty (Easy/Medium/Hard) [Medium]: ").strip().capitalize() or "Medium"
-    topics = input("  Topics (comma separated) [-]: ").strip() or "-"
 
+    # ── Create folder ─────────────────────────────────────
     slug = slugify(title)
     if num > 0:
-        folder_name = f"{num:04d}-{slug}"
+        problem_folder = f"{num:04d}-{slug}"
     else:
-        folder_name = slug
+        problem_folder = slug
 
-    folder_path = os.path.join(platform_folder, folder_name)
+    folder_path = os.path.join(folder_name, problem_folder)
 
     if os.path.exists(folder_path):
         print(f"\n  Warning: Folder exists: {folder_path}")
@@ -79,22 +111,19 @@ def main():
 
     os.makedirs(folder_path, exist_ok=True)
 
+    # ── Create Solution.java ────────────────────────────────
     solution_path = os.path.join(folder_path, "Solution.java")
     date_str = datetime.now().strftime("%Y-%m-%d")
 
     template = f"""\
 // Problem: {title}
-// Platform: {platform_display}
 // URL: {url}
 // Difficulty: {difficulty}
-// Topics: {topics}
 // Date Solved: {date_str}
-//
-// Time Complexity: O(?)
-// Space Complexity: O(?)
+
 
 class Solution {{
-    // TODO: Paste your solution here
+    // TODO: Paste solution here
 
 }}
 """

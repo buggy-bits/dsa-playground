@@ -1,23 +1,16 @@
 """
-Scans every platform folder, reads Solution.java metadata,
-and generates a complete README.md with per-platform tables.
+Scans every tracked folder, reads Solution.java metadata,
+and generates README.md with per-folder tables.
+Clean and simple.
 """
 
 import os
 import re
+import json
 from datetime import datetime
 
 SKIP = {".git", ".github", "scripts", "__pycache__", ".vscode", ".idea", "node_modules"}
-
-DISPLAY_NAMES = {
-    "leetcode": "LeetCode",
-    "gfg": "GeeksForGeeks",
-    "geeksforgeeks": "GeeksForGeeks",
-    "codeforces": "Codeforces",
-    "hackerrank": "HackerRank",
-    "neetcode": "NeetCode",
-    "interviewbit": "InterviewBit",
-}
+FOLDERS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "folders.json")
 
 
 def parse_solution(filepath):
@@ -49,8 +42,9 @@ def difficulty_badge(d):
     return d
 
 
-def discover_platforms(root="."):
-    platforms = {}
+def discover_folders(root="."):
+    # Find all folders at root level that contain problem sub-folders.
+    folders = {}
     for item in sorted(os.listdir(root)):
         if item in SKIP or item.startswith("."):
             continue
@@ -62,16 +56,16 @@ def discover_platforms(root="."):
             if os.path.isdir(sub_path) and os.path.isfile(
                 os.path.join(sub_path, "Solution.java")
             ):
-                display = DISPLAY_NAMES.get(item, item.replace("-", " ").title())
-                platforms[item] = display
+                display = item.replace("-", " ").title()
+                folders[item] = display
                 break
-    return platforms
+    return folders
 
 
-def scan_problems(platform_dir):
+def scan_problems(folder_dir):
     problems = []
-    for folder in sorted(os.listdir(platform_dir)):
-        fp = os.path.join(platform_dir, folder)
+    for folder in sorted(os.listdir(folder_dir)):
+        fp = os.path.join(folder_dir, folder)
         sf = os.path.join(fp, "Solution.java")
         if not os.path.isdir(fp) or not os.path.isfile(sf):
             continue
@@ -93,7 +87,6 @@ def scan_problems(platform_dir):
                 "title": meta.get("problem", fallback_title),
                 "url": meta.get("url", "#"),
                 "difficulty": meta.get("difficulty", "Unknown"),
-                "topics": meta.get("topics", "-"),
                 "date": meta.get("date_solved", "-"),
                 "folder": folder,
             }
@@ -104,9 +97,9 @@ def scan_problems(platform_dir):
 
 
 def generate():
-    platforms = discover_platforms()
+    folders = discover_folders()
 
-    if not platforms:
+    if not folders:
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(
                 "# 🚀 DSA Playground\n\n"
@@ -116,56 +109,40 @@ def generate():
         return
 
     all_data = {}
-    total, easy, med, hard = 0, 0, 0, 0
+    total = 0
 
-    for pfolder, pname in platforms.items():
-        probs = scan_problems(pfolder)
-        all_data[pfolder] = {"name": pname, "problems": probs}
-        for p in probs:
-            total += 1
-            dl = p["difficulty"].lower()
-            if "easy" in dl:
-                easy += 1
-            elif "medium" in dl:
-                med += 1
-            elif "hard" in dl:
-                hard += 1
+    for fname, display in folders.items():
+        probs = scan_problems(fname)
+        all_data[fname] = {"name": display, "problems": probs}
+        total += len(probs)
 
     lines = []
 
+    # Header
     lines.append("# 🚀 DSA Playground\n")
     lines.append("> My DSA journey — one problem at a time.")
     lines.append(">")
-    lines.append("> **Language:** Java &nbsp;|&nbsp; **Platforms:** " + ", ".join(
-        all_data[pf]["name"] for pf in all_data
-    ))
+    lines.append("> **Language:** Java")
     lines.append("")
-
-    lines.append("---\n")
-    lines.append("## 📊 Progress\n")
-    lines.append("| Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard |")
-    lines.append("|:---:|:---:|:---:|:---:|")
-    lines.append(f"| **{total}** | **{easy}** | **{med}** | **{hard}** |")
-    lines.append("")
-
     lines.append("---\n")
 
-    for pfolder, data in all_data.items():
-        pname = data["name"]
+    # Per-folder sections
+    for fname, data in all_data.items():
+        display_name = data["name"]
         probs = data["problems"]
         count = len(probs)
 
-        lines.append(f"## 📂 {pname} — {count} problem{'s' if count != 1 else ''}\n")
-        lines.append("| S.No | Problem | Difficulty | Problem Link | My Solution |")
-        lines.append("|:----:|---------|:----------:|:------------:|:-----------:|")
+        lines.append(f"## 📂 {display_name} — {count} problem{'s' if count != 1 else ''}\n")
+        lines.append("| S.No | Problem | Difficulty | Problem  | My Solution |")
+        lines.append("|:----:|---------|:----------:|:--------:|:-----------:|")
 
         for i, p in enumerate(probs, 1):
             if p["url"] and p["url"] != "#":
-                prob_link = f"[🔗 Link]({p['url']})"
+                prob_link = f"[Link]({p['url']})"
             else:
                 prob_link = "-"
 
-            sol_link = f"[Solution](./{pfolder}/{p['folder']}/Solution.java)"
+            sol_link = f"[Solution](./{fname}/{p['folder']}/Solution.java)"
 
             lines.append(
                 f"| {i} "
@@ -176,15 +153,16 @@ def generate():
             )
 
         lines.append("")
+        lines.append("---\n")
 
-    lines.append("---\n")
+    # Footer
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     lines.append(f'<p align="center"><i>Last updated: {now}</i></p>\n')
 
     with open("README.md", "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    print(f"  README.md updated - {total} problems across {len(platforms)} platform(s)")
+    print(f"  README.md updated - {total} problems across {len(folders)} folder(s)")
 
 
 if __name__ == "__main__":

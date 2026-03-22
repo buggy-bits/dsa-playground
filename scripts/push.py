@@ -1,8 +1,7 @@
 """
-End-of-day script:
-  1. Regenerates README.md
+  1. Regenerates README.md from all solution files
   2. Stages everything
-  3. Commits with daily message
+  3. Commits with a  message
   4. Pushes to GitHub
 """
 
