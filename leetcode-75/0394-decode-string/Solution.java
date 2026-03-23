@@ -3,6 +3,8 @@
 // Difficulty: Medium
 // Date Solved: 2026-03-23
 
+import java.util.Stack;
+
 class Solution {
     public String decodeString(String s) {
         Stack<Integer> st = new Stack<>();
