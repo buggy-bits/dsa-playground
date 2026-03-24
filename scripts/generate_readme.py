@@ -133,7 +133,7 @@ def generate():
         count = len(probs)
 
         lines.append(f"## 📂 {display_name} — {count} problem{'s' if count != 1 else ''}\n")
-        lines.append("| S.No | Problem | Difficulty | Problem  | My Solution |")
+        lines.append("| P.No | Problem | Difficulty | Problem  | My Solution |")
         lines.append("|:----:|---------|:----------:|:--------:|:-----------:|")
 
         for i, p in enumerate(probs, 1):
@@ -145,7 +145,7 @@ def generate():
             sol_link = f"[Solution](./{fname}/{p['folder']}/Solution.java)"
 
             lines.append(
-                f"| {i} "
+                f"| {p['number']} "
                 f"| {p['title']} "
                 f"| {difficulty_badge(p['difficulty'])} "
                 f"| {prob_link} "
