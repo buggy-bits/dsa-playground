@@ -6,12 +6,13 @@
 
 ---
 
-## 📂 Leetcode 75 — 25 problems
+## 📂 Leetcode 75 — 28 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
 | 104 | Maximum Depth of Binary Tree | 🟢 Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./leetcode-75/0104-maximum-depth-of-binary-tree/Solution.java) |
 | 136 | Single Number | 🟢 Easy | [Link](https://leetcode.com/problems/single-number) | [Solution](./leetcode-75/0136-single-number/Solution.java) |
+| 162 | Find Peak Element | 🟡 Medium | [Link](https://leetcode.com/problems/find-peak-element/) | [Solution](./leetcode-75/0162-find-peak-element/Solution.java) |
 | 199 | Binary Tree Right Side View | 🟡 Medium | [Link](https://leetcode.com/problems/binary-tree-right-side-view) | [Solution](./leetcode-75/0199-binary-tree-right-side-view/Solution.java) |
 | 328 | Odd Even Linked List | 🟡 Medium | [Link](https://leetcode.com/problems/odd-even-linked-list) | [Solution](./leetcode-75/0328-odd-even-linked-list/Solution.java) |
 | 338 | Counting Bits | 🟢 Easy | [Link](https://leetcode.com/problems/counting-bits) | [Solution](./leetcode-75/0338-counting-bits/Solution.java) |
@@ -23,7 +24,9 @@
 | 872 | Leaf-Similar Trees | 🟢 Easy | [Link](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./leetcode-75/0872-leaf-similar-trees/Solution.java) |
 | 875 | Koko Eating Bananas | 🟡 Medium | [Link](https://leetcode.com/problems/koko-eating-bananas) | [Solution](./leetcode-75/0875-koko-eating-bananas/Solution.java) |
 | 901 | Online Stock Span | 🟡 Medium | [Link](https://leetcode.com/problems/online-stock-span) | [Solution](./leetcode-75/0901-online-stock-span/Solution.java) |
+| 933 | Number of Recent Calls | 🟢 Easy | [Link](https://leetcode.com/problems/number-of-recent-calls/) | [Solution](./leetcode-75/0933-number-of-recent-calls/Solution.java) |
 | 1004 | Max Consecutive Ones III | 🟡 Medium | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](./leetcode-75/1004-max-consecutive-ones-iii/Solution.java) |
+| 1137 | N-th Tribonacci Number | 🟢 Easy | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution](./leetcode-75/1137-n-th-tribonacci-number/Solution.java) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [Link](https://leetcode.com/problems/unique-number-of-occurrences) | [Solution](./leetcode-75/1207-unique-number-of-occurrences/Solution.java) |
 | 1372 | Longest ZigZag Path in a Binary Tree | 🟡 Medium | [Link](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Solution](./leetcode-75/1372-longest-zigzag-path-in-a-binary-tree/Solution.java) |
 | 1431 | Kids With the Greatest Number of Candies | 🟢 Easy | [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Solution](./leetcode-75/1431-kids-with-the-greatest-number-of-candies/Solution.java) |
@@ -38,4 +41,4 @@
 
 ---
 
-<p align="center"><i>Last updated: 2026-04-02 23:12</i></p>
+<p align="center"><i>Last updated: 2026-04-15 22:49</i></p>
