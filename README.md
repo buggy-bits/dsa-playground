@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Leetcode 75 — 28 problems
+## 📂 Leetcode 75 — 29 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -36,9 +36,10 @@
 | 1679 | Max Number of K-Sum Pairs | 🟡 Medium | [Link](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution](./leetcode-75/1679-max-number-of-k-sum-pairs/Solution.java) |
 | 2095 | Delete the Middle Node of a Linked List | 🟡 Medium | [Link](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | [Solution](./leetcode-75/2095-delete-the-middle-node-of-a-linked-list/Solution.java) |
 | 2130 | Maximum Twin Sum of a Linked List | 🟡 Medium | [Link](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Solution](./leetcode-75/2130-maximum-twin-sum-of-a-linked-list/Solution.java) |
+| 2300 | Successful Pairs of Spells and Potions | 🟡 Medium | [Link](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/) | [Solution](./leetcode-75/2300-successful-pairs-of-spells-and-potions/Solution.java) |
 | 2352 | Equal Row and Column Pairs | 🟡 Medium | [Link](https://leetcode.com/problems/equal-row-and-column-pairs/) | [Solution](./leetcode-75/2352-equal-row-and-column-pairs/Solution.java) |
 | 2390 | Removing Stars From a String | 🟡 Medium | [Link](https://leetcode.com/problems/removing-stars-from-a-string) | [Solution](./leetcode-75/2390-removing-stars-from-a-string/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-04-15 22:49</i></p>
+<p align="center"><i>Last updated: 2026-04-26 23:24</i></p>
