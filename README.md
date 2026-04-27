@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Leetcode 75 — 29 problems
+## 📂 Leetcode 75 — 30 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -27,6 +27,7 @@
 | 933 | Number of Recent Calls | 🟢 Easy | [Link](https://leetcode.com/problems/number-of-recent-calls/) | [Solution](./leetcode-75/0933-number-of-recent-calls/Solution.java) |
 | 1004 | Max Consecutive Ones III | 🟡 Medium | [Link](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Solution](./leetcode-75/1004-max-consecutive-ones-iii/Solution.java) |
 | 1137 | N-th Tribonacci Number | 🟢 Easy | [Link](https://leetcode.com/problems/n-th-tribonacci-number/) | [Solution](./leetcode-75/1137-n-th-tribonacci-number/Solution.java) |
+| 1161 | Maximum Level Sum of a Binary Tree | 🟡 Medium | [Link](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/?envType=study-plan-v2&envId=leetcode-75) | [Solution](./leetcode-75/1161-maximum-level-sum-of-a-binary-tree/Solution.java) |
 | 1207 | Unique Number of Occurrences | 🟢 Easy | [Link](https://leetcode.com/problems/unique-number-of-occurrences) | [Solution](./leetcode-75/1207-unique-number-of-occurrences/Solution.java) |
 | 1372 | Longest ZigZag Path in a Binary Tree | 🟡 Medium | [Link](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | [Solution](./leetcode-75/1372-longest-zigzag-path-in-a-binary-tree/Solution.java) |
 | 1431 | Kids With the Greatest Number of Candies | 🟢 Easy | [Link](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Solution](./leetcode-75/1431-kids-with-the-greatest-number-of-candies/Solution.java) |
@@ -42,4 +43,4 @@
 
 ---
 
-<p align="center"><i>Last updated: 2026-04-26 23:24</i></p>
+<p align="center"><i>Last updated: 2026-04-28 02:03</i></p>
