@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Leetcode 75 — 30 problems
+## 📂 Leetcode 75 — 33 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -18,9 +18,12 @@
 | 338 | Counting Bits | 🟢 Easy | [Link](https://leetcode.com/problems/counting-bits) | [Solution](./leetcode-75/0338-counting-bits/Solution.java) |
 | 374 | Guess Number Higher or Lower | 🟢 Easy | [Link](https://leetcode.com/problems/guess-number-higher-or-lower) | [Solution](./leetcode-75/0374-guess-number-higher-or-lower/Solution.java) |
 | 394 | Decode String | 🟡 Medium | [Link](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75) | [Solution](./leetcode-75/0394-decode-string/Solution.java) |
+| 437 | Path Sum III | 🟡 Medium | [Link](https://leetcode.com/problems/path-sum-iii/) | [Solution](./leetcode-75/0437-path-sum-iii/Solution.java) |
 | 450 | Delete Node in a BST | 🟡 Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution](./leetcode-75/0450-delete-node-in-a-bst/Solution.java) |
 | 605 | Can Place Flowers | 🟢 Easy | [Link](https://leetcode.com/problems/can-place-flowers/) | [Solution](./leetcode-75/0605-can-place-flowers/Solution.java) |
 | 700 | Search in a Binary Search Tree | 🟢 Easy | [Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./leetcode-75/0700-search-in-a-binary-search-tree/Solution.java) |
+| 746 | Min Cost Climbing Stairs | 🟢 Easy | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./leetcode-75/0746-min-cost-climbing-stairs/Solution.java) |
+| 790 | Domino and Tromino Tiling | 🟡 Medium | [Link](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](./leetcode-75/0790-domino-and-tromino-tiling/Solution.java) |
 | 872 | Leaf-Similar Trees | 🟢 Easy | [Link](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](./leetcode-75/0872-leaf-similar-trees/Solution.java) |
 | 875 | Koko Eating Bananas | 🟡 Medium | [Link](https://leetcode.com/problems/koko-eating-bananas) | [Solution](./leetcode-75/0875-koko-eating-bananas/Solution.java) |
 | 901 | Online Stock Span | 🟡 Medium | [Link](https://leetcode.com/problems/online-stock-span) | [Solution](./leetcode-75/0901-online-stock-span/Solution.java) |
@@ -43,4 +46,4 @@
 
 ---
 
-<p align="center"><i>Last updated: 2026-04-28 02:03</i></p>
+<p align="center"><i>Last updated: 2026-05-04 00:54</i></p>
