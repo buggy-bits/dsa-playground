@@ -6,20 +6,25 @@
 
 ---
 
-## 📂 Leetcode 75 — 33 problems
+## 📂 Leetcode 75 — 38 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
+| 62 | Unique Paths | 🟡 Medium | [Link](https://leetcode.com/problems/unique-paths/) | [Solution](./leetcode-75/0062-unique-paths/Solution.java) |
 | 104 | Maximum Depth of Binary Tree | 🟢 Easy | [Link](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution](./leetcode-75/0104-maximum-depth-of-binary-tree/Solution.java) |
 | 136 | Single Number | 🟢 Easy | [Link](https://leetcode.com/problems/single-number) | [Solution](./leetcode-75/0136-single-number/Solution.java) |
 | 162 | Find Peak Element | 🟡 Medium | [Link](https://leetcode.com/problems/find-peak-element/) | [Solution](./leetcode-75/0162-find-peak-element/Solution.java) |
+| 198 | House Robber | 🟡 Medium | [Link](https://leetcode.com/problems/house-robber/) | [Solution](./leetcode-75/0198-house-robber/Solution.java) |
 | 199 | Binary Tree Right Side View | 🟡 Medium | [Link](https://leetcode.com/problems/binary-tree-right-side-view) | [Solution](./leetcode-75/0199-binary-tree-right-side-view/Solution.java) |
+| 236 | Lowest Common Ancestor of a Binary Tree | 🟡 Medium | - | [Solution](./leetcode-75/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) |
 | 328 | Odd Even Linked List | 🟡 Medium | [Link](https://leetcode.com/problems/odd-even-linked-list) | [Solution](./leetcode-75/0328-odd-even-linked-list/Solution.java) |
 | 338 | Counting Bits | 🟢 Easy | [Link](https://leetcode.com/problems/counting-bits) | [Solution](./leetcode-75/0338-counting-bits/Solution.java) |
 | 374 | Guess Number Higher or Lower | 🟢 Easy | [Link](https://leetcode.com/problems/guess-number-higher-or-lower) | [Solution](./leetcode-75/0374-guess-number-higher-or-lower/Solution.java) |
 | 394 | Decode String | 🟡 Medium | [Link](https://leetcode.com/problems/decode-string/?envType=study-plan-v2&envId=leetcode-75) | [Solution](./leetcode-75/0394-decode-string/Solution.java) |
+| 399 | Evaluate Division | 🟡 Medium | [Link](https://leetcode.com/problems/evaluate-division/?envType=study-plan-v2&envId=leetcode-75) | [Solution](./leetcode-75/0399-evaluate-division/Solution.java) |
 | 437 | Path Sum III | 🟡 Medium | [Link](https://leetcode.com/problems/path-sum-iii/) | [Solution](./leetcode-75/0437-path-sum-iii/Solution.java) |
 | 450 | Delete Node in a BST | 🟡 Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution](./leetcode-75/0450-delete-node-in-a-bst/Solution.java) |
+| 547 | Number of Provinces | 🟡 Medium | [Link](https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2) | [Solution](./leetcode-75/0547-number-of-provinces/Solution.java) |
 | 605 | Can Place Flowers | 🟢 Easy | [Link](https://leetcode.com/problems/can-place-flowers/) | [Solution](./leetcode-75/0605-can-place-flowers/Solution.java) |
 | 700 | Search in a Binary Search Tree | 🟢 Easy | [Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./leetcode-75/0700-search-in-a-binary-search-tree/Solution.java) |
 | 746 | Min Cost Climbing Stairs | 🟢 Easy | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./leetcode-75/0746-min-cost-climbing-stairs/Solution.java) |
@@ -46,4 +51,4 @@
 
 ---
 
-<p align="center"><i>Last updated: 2026-05-04 00:54</i></p>
+<p align="center"><i>Last updated: 2026-05-20 23:30</i></p>
