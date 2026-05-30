@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 Leetcode 75 — 38 problems
+## 📂 Leetcode 75 — 39 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -26,6 +26,7 @@
 | 450 | Delete Node in a BST | 🟡 Medium | [Link](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution](./leetcode-75/0450-delete-node-in-a-bst/Solution.java) |
 | 547 | Number of Provinces | 🟡 Medium | [Link](https://leetcode.com/problems/number-of-provinces/description/?envType=study-plan-v2) | [Solution](./leetcode-75/0547-number-of-provinces/Solution.java) |
 | 605 | Can Place Flowers | 🟢 Easy | [Link](https://leetcode.com/problems/can-place-flowers/) | [Solution](./leetcode-75/0605-can-place-flowers/Solution.java) |
+| 649 | Dota2 Senate | 🟡 Medium | [Link](https://leetcode.com/problems/dota2-senate/) | [Solution](./leetcode-75/0649-dota2-senate/Solution.java) |
 | 700 | Search in a Binary Search Tree | 🟢 Easy | [Link](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](./leetcode-75/0700-search-in-a-binary-search-tree/Solution.java) |
 | 746 | Min Cost Climbing Stairs | 🟢 Easy | [Link](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](./leetcode-75/0746-min-cost-climbing-stairs/Solution.java) |
 | 790 | Domino and Tromino Tiling | 🟡 Medium | [Link](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](./leetcode-75/0790-domino-and-tromino-tiling/Solution.java) |
@@ -51,4 +52,17 @@
 
 ---
 
-<p align="center"><i>Last updated: 2026-05-20 23:30</i></p>
+## 📂 Neetcode 75 — 6 problems
+
+| P.No | Problem | Difficulty | Problem  | My Solution |
+|:----:|---------|:----------:|:--------:|:-----------:|
+| 190 | Reverse Bits | 🟢 Easy | [Link](https://leetcode.com/problems/reverse-bits/description/) | [Solution](./neetcode-75/0190-reverse-bits/Solution.java) |
+| 191 | Number of 1 Bits | 🟢 Easy | [Link](https://leetcode.com/problems/number-of-1-bits/description/) | [Solution](./neetcode-75/0191-number-of-1-bits/Solution.java) |
+| 217 | Contains Duplicate | 🟢 Easy | [Link](https://leetcode.com/problems/contains-duplicate/) | [Solution](./neetcode-75/0217-contains-duplicate/Solution.java) |
+| 242 | Valid Anagram | 🟢 Easy | [Link](https://leetcode.com/problems/valid-anagram/) | [Solution](./neetcode-75/0242-valid-anagram/Solution.java) |
+| 268 | Missing Number | 🟢 Easy | [Link](https://leetcode.com/problems/missing-number/description/) | [Solution](./neetcode-75/0268-missing-number/Solution.java) |
+| 338 | Counting Bits | 🟢 Easy | [Link](https://leetcode.com/problems/counting-bits/description/) | [Solution](./neetcode-75/0338-counting-bits/Solution.java) |
+
+---
+
+<p align="center"><i>Last updated: 2026-05-30 23:53</i></p>
