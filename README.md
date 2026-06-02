@@ -65,14 +65,17 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 3 problems
+## 📂 Sdesheetchallenge Takeuforward — 6 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
 | 1 | Set Matrix Zeroes | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/set-matrix-zeroes?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0001-set-matrix-zeroes/Solution.java) |
 | 2 | Pascal's Triangle 1 | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/pascals-triangle-i?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0002-pascal-s-triangle-1/Solution.java) |
 | 3 | Next Permutation | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/next-permutation?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0003-next-permutation/Solution.java) |
+| 4 | Kadanes Algorithm | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0004-kadanes-algorithm/Solution.java) |
+| 5 | Sort an array of 0's 1's and 2's | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0005-sort-an-array-of-0-s-1-s-and-2-s/Solution.java) |
+| 6 | Best time to buy and sell stock | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0006-best-time-to-buy-and-sell-stock/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-01 17:52</i></p>
+<p align="center"><i>Last updated: 2026-06-02 11:15</i></p>
