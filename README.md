@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 6 problems
+## 📂 Sdesheetchallenge Takeuforward — 9 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -75,7 +75,10 @@
 | 4 | Kadanes Algorithm | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0004-kadanes-algorithm/Solution.java) |
 | 5 | Sort an array of 0's 1's and 2's | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/sort-an-array-of-0's-1's-and-2's?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0005-sort-an-array-of-0-s-1-s-and-2-s/Solution.java) |
 | 6 | Best time to buy and sell stock | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0006-best-time-to-buy-and-sell-stock/Solution.java) |
+| 7 | Rotate matrix by 90 degrees | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0007-rotate-matrix-by-90-degrees/Solution.java) |
+| 8 | Merge Overlapping Subintervals | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0008-merge-overlapping-subintervals/Solution.java) |
+| 9 | Merge two sorted arrays without extra space | 🟡 Medium | - | [Solution](./sdesheetchallenge-takeuforward/0009-merge-two-sorted-arrays-without-extra-space/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-02 11:15</i></p>
+<p align="center"><i>Last updated: 2026-06-03 15:15</i></p>
