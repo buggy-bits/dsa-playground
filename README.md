@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 9 problems
+## 📂 Sdesheetchallenge Takeuforward — 12 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -78,7 +78,10 @@
 | 7 | Rotate matrix by 90 degrees | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0007-rotate-matrix-by-90-degrees/Solution.java) |
 | 8 | Merge Overlapping Subintervals | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0008-merge-overlapping-subintervals/Solution.java) |
 | 9 | Merge two sorted arrays without extra space | 🟡 Medium | - | [Solution](./sdesheetchallenge-takeuforward/0009-merge-two-sorted-arrays-without-extra-space/Solution.java) |
+| 10 | Find the Duplicate Number | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-the-duplicate-number?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0010-find-the-duplicate-number/Solution.java) |
+| 11 | Find the repeating and missing number | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0011-find-the-repeating-and-missing-number/Solution.java) |
+| 12 | Inversion of Array | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/count-inversions?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0012-inversion-of-array/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-03 15:15</i></p>
+<p align="center"><i>Last updated: 2026-06-04 18:41</i></p>
