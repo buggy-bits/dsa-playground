@@ -93,9 +93,19 @@ def main():
     push_result = run("git push origin main")
 
     if push_result.returncode == 0:
+        
+        # Get latest commit hash
+        commit_hash = run("git rev-parse HEAD").stdout.strip()
+
+        # Get remote URL
+        remote_url = run("git config --get remote.origin.url").stdout.strip()
+        
+        commit_link = f"{remote_url}/commit/{commit_hash}"
+        
         print()
         print("  " + "=" * 40)
         print(f"  Done!  {commit_msg}")
+        print(f"  🔗 {commit_link}")
         print("  " + "=" * 40)
     else:
         print()
