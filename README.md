@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 12 problems
+## 📂 Sdesheetchallenge Takeuforward — 15 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -81,7 +81,10 @@
 | 10 | Find the Duplicate Number | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-the-duplicate-number?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0010-find-the-duplicate-number/Solution.java) |
 | 11 | Find the repeating and missing number | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0011-find-the-repeating-and-missing-number/Solution.java) |
 | 12 | Inversion of Array | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/count-inversions?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0012-inversion-of-array/Solution.java) |
+| 13 | Search in a 2D matrix | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/search-in-a-2d-matrix?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0013-search-in-a-2d-matrix/Solution.java) |
+| 14 | Pow(x, n) | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/pow(x,n)?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0014-pow-x-n/Solution.java) |
+| 15 | Majority Element-I | 🟢 Easy | - | [Solution](./sdesheetchallenge-takeuforward/0015-majority-element-i/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-04 18:41</i></p>
+<p align="center"><i>Last updated: 2026-06-05 14:08</i></p>
