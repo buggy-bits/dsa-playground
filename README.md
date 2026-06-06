@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 15 problems
+## 📂 Sdesheetchallenge Takeuforward — 18 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -84,7 +84,10 @@
 | 13 | Search in a 2D matrix | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/search-in-a-2d-matrix?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0013-search-in-a-2d-matrix/Solution.java) |
 | 14 | Pow(x, n) | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/pow(x,n)?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0014-pow-x-n/Solution.java) |
 | 15 | Majority Element-I | 🟢 Easy | - | [Solution](./sdesheetchallenge-takeuforward/0015-majority-element-i/Solution.java) |
+| 16 | Majority Element-II | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/majority-element-ii?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0016-majority-element-ii/Solution.java) |
+| 17 | Grid unique paths | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/grid-unique-paths?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0017-grid-unique-paths/Solution.java) |
+| 18 | Reverse Pairs | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/reverse-pairs?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0018-reverse-pairs/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-05 14:08</i></p>
+<p align="center"><i>Last updated: 2026-06-06 12:00</i></p>
