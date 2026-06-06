@@ -99,7 +99,7 @@ def main():
 
         # Get remote URL
         remote_url = run("git config --get remote.origin.url").stdout.strip()
-        
+        remote_url = remote_url.replace(".git", "")
         commit_link = f"{remote_url}/commit/{commit_hash}"
         
         print()
