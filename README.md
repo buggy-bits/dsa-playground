@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 18 problems
+## 📂 Sdesheetchallenge Takeuforward — 21 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -87,7 +87,10 @@
 | 16 | Majority Element-II | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/majority-element-ii?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0016-majority-element-ii/Solution.java) |
 | 17 | Grid unique paths | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/grid-unique-paths?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0017-grid-unique-paths/Solution.java) |
 | 18 | Reverse Pairs | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/reverse-pairs?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0018-reverse-pairs/Solution.java) |
+| 19 | Two Sum | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/two-sum?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0019-two-sum/Solution.java) |
+| 20 | 4 Sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/4-sum?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0020-4-sum/Solution.java) |
+| 21 | Longest Consecutive Sequence in an Array | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-consecutive-sequence-in-an-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0021-longest-consecutive-sequence-in-an-array/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-06 12:00</i></p>
+<p align="center"><i>Last updated: 2026-06-07 13:16</i></p>
