@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 21 problems
+## 📂 Sdesheetchallenge Takeuforward — 24 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -90,7 +90,10 @@
 | 19 | Two Sum | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/two-sum?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0019-two-sum/Solution.java) |
 | 20 | 4 Sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/4-sum?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0020-4-sum/Solution.java) |
 | 21 | Longest Consecutive Sequence in an Array | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-consecutive-sequence-in-an-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0021-longest-consecutive-sequence-in-an-array/Solution.java) |
+| 22 | Largest Subarray with K sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0022-largest-subarray-with-k-sum/Solution.java) |
+| 23 | Count subarrays with given xor K | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0023-count-subarrays-with-given-xor-k/Solution.java) |
+| 24 | Longest Substring Without Repeating Characters | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-substring-without-repeating-characters?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0024-longest-substring-without-repeating-characters/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-07 13:16</i></p>
+<p align="center"><i>Last updated: 2026-06-08 12:19</i></p>
