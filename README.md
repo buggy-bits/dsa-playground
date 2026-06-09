@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 24 problems
+## 📂 Sdesheetchallenge Takeuforward — 27 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -93,7 +93,10 @@
 | 22 | Largest Subarray with K sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0022-largest-subarray-with-k-sum/Solution.java) |
 | 23 | Count subarrays with given xor K | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0023-count-subarrays-with-given-xor-k/Solution.java) |
 | 24 | Longest Substring Without Repeating Characters | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-substring-without-repeating-characters?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0024-longest-substring-without-repeating-characters/Solution.java) |
+| 25 | Reverse a LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/reverse-a-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0025-reverse-a-ll/Solution.java) |
+| 26 | Find Middle of Linked List | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/find-middle-of-linked-list?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0026-find-middle-of-linked-list/Solution.java) |
+| 28 | Merge two Sorted Lists | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/merge-sorted-lists-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0028-merge-two-sorted-lists/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-08 12:19</i></p>
+<p align="center"><i>Last updated: 2026-06-09 14:20</i></p>
