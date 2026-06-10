@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 27 problems
+## 📂 Sdesheetchallenge Takeuforward — 30 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -95,8 +95,11 @@
 | 24 | Longest Substring Without Repeating Characters | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-substring-without-repeating-characters?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0024-longest-substring-without-repeating-characters/Solution.java) |
 | 25 | Reverse a LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/reverse-a-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0025-reverse-a-ll/Solution.java) |
 | 26 | Find Middle of Linked List | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/find-middle-of-linked-list?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0026-find-middle-of-linked-list/Solution.java) |
-| 28 | Merge two Sorted Lists | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/merge-sorted-lists-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0028-merge-two-sorted-lists/Solution.java) |
+| 27 | Merge two Sorted Lists | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/merge-sorted-lists-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0027-merge-two-sorted-lists/Solution.java) |
+| 28 | Remove Nth node from the back of the LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/remove-nth-node-from-the-back-of-the-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0028-remove-nth-node-from-the-back-of-the-ll/Solution.java) |
+| 29 | Add two numbers as LinkedList | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/add-two-numbers-in-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0029-add-two-numbers-as-linkedlist/Solution.java) |
+| 30 | Delete Node in a Linked List O(1) | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/delete-node-in-a-linked-list-o1?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0030-delete-node-in-a-linked-list-o-1/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-09 14:20</i></p>
+<p align="center"><i>Last updated: 2026-06-10 15:45</i></p>
