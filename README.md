@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 30 problems
+## 📂 Sdesheetchallenge Takeuforward — 33 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -99,7 +99,10 @@
 | 28 | Remove Nth node from the back of the LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/remove-nth-node-from-the-back-of-the-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0028-remove-nth-node-from-the-back-of-the-ll/Solution.java) |
 | 29 | Add two numbers as LinkedList | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/add-two-numbers-in-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0029-add-two-numbers-as-linkedlist/Solution.java) |
 | 30 | Delete Node in a Linked List O(1) | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/delete-node-in-a-linked-list-o1?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0030-delete-node-in-a-linked-list-o-1/Solution.java) |
+| 31 | Find the intersection point of Y LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-the-intersection-point-of-y-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0031-find-the-intersection-point-of-y-ll/Solution.java) |
+| 32 | Detect a loop in LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0032-detect-a-loop-in-ll/Solution.java) |
+| 33 | Reverse LL in group of given size K | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/reverse-ll-in-group-of-given-size-k?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0033-reverse-ll-in-group-of-given-size-k/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-10 15:45</i></p>
+<p align="center"><i>Last updated: 2026-06-11 22:53</i></p>
