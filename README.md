@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 33 problems
+## 📂 Sdesheetchallenge Takeuforward — 36 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -102,7 +102,10 @@
 | 31 | Find the intersection point of Y LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-the-intersection-point-of-y-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0031-find-the-intersection-point-of-y-ll/Solution.java) |
 | 32 | Detect a loop in LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0032-detect-a-loop-in-ll/Solution.java) |
 | 33 | Reverse LL in group of given size K | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/reverse-ll-in-group-of-given-size-k?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0033-reverse-ll-in-group-of-given-size-k/Solution.java) |
+| 34 | Check if LL is palindrome or not | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-if-ll-is-palindrome-or-not?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0034-check-if-ll-is-palindrome-or-not/Solution.java) |
+| 35 | Find the starting point in LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0035-find-the-starting-point-in-ll/Solution.java) |
+| 36 | Flattening of LL | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/flattening-of-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0036-flattening-of-ll/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-11 22:53</i></p>
+<p align="center"><i>Last updated: 2026-06-12 15:23</i></p>
