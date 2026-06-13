@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 36 problems
+## 📂 Sdesheetchallenge Takeuforward — 39 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -105,7 +105,10 @@
 | 34 | Check if LL is palindrome or not | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-if-ll-is-palindrome-or-not?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0034-check-if-ll-is-palindrome-or-not/Solution.java) |
 | 35 | Find the starting point in LL | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0035-find-the-starting-point-in-ll/Solution.java) |
 | 36 | Flattening of LL | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/flattening-of-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0036-flattening-of-ll/Solution.java) |
+| 37 | Rotate a LL | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/rotate-a-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0037-rotate-a-ll/Solution.java) |
+| 38 | Clone a LL with random and next pointer | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/clone-a-ll-with-random-and-next-pointer?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0038-clone-a-ll-with-random-and-next-pointer/Solution.java) |
+| 39 | 3 Sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/3-sum?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0039-3-sum/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-12 15:23</i></p>
+<p align="center"><i>Last updated: 2026-06-13 22:26</i></p>
