@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 39 problems
+## 📂 Sdesheetchallenge Takeuforward — 42 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -108,7 +108,10 @@
 | 37 | Rotate a LL | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/rotate-a-ll?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0037-rotate-a-ll/Solution.java) |
 | 38 | Clone a LL with random and next pointer | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/clone-a-ll-with-random-and-next-pointer?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0038-clone-a-ll-with-random-and-next-pointer/Solution.java) |
 | 39 | 3 Sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/3-sum?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0039-3-sum/Solution.java) |
+| 40 | Trapping Rainwater | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/trapping-rainwater?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0040-trapping-rainwater/Solution.java) |
+| 41 | Remove duplicates from sorted array | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0041-remove-duplicates-from-sorted-array/Solution.java) |
+| 42 | Maximum Consecutive Ones | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/maximum-consecutive-ones?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0042-maximum-consecutive-ones/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-13 22:26</i></p>
+<p align="center"><i>Last updated: 2026-06-14 17:58</i></p>
