@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 42 problems
+## 📂 Sdesheetchallenge Takeuforward — 46 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -111,7 +111,11 @@
 | 40 | Trapping Rainwater | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/trapping-rainwater?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0040-trapping-rainwater/Solution.java) |
 | 41 | Remove duplicates from sorted array | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0041-remove-duplicates-from-sorted-array/Solution.java) |
 | 42 | Maximum Consecutive Ones | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/maximum-consecutive-ones?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0042-maximum-consecutive-ones/Solution.java) |
+| 43 | N meetings in one room | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0043-n-meetings-in-one-room/Solution.java) |
+| 44 | Minimum number of platforms required for a railway | 🟡 Medium | - | [Solution](./sdesheetchallenge-takeuforward/0044-minimum-number-of-platforms-required-for-a-railway/Solution.java) |
+| 45 | Job sequencing Problem | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0045-job-sequencing-problem/Solution.java) |
+| 46 | Fractional Knapsack | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/fractional-knapsack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0046-fractional-knapsack/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-14 17:58</i></p>
+<p align="center"><i>Last updated: 2026-06-15 14:25</i></p>
