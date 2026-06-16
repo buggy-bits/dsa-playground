@@ -1,6 +1,5 @@
 // Problem: Merge two sorted arrays without extra space
-// URL:
-// https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space?source=strivers-sde-sheet
+// URL: https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space?source=strivers-sde-sheet
 // Difficulty: Medium
 // Date Solved: 2026-06-03
 

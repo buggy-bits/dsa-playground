@@ -16,7 +16,7 @@
 | 162 | Find Peak Element | 🟡 Medium | [Link](https://leetcode.com/problems/find-peak-element/) | [Solution](./leetcode-75/0162-find-peak-element/Solution.java) |
 | 198 | House Robber | 🟡 Medium | [Link](https://leetcode.com/problems/house-robber/) | [Solution](./leetcode-75/0198-house-robber/Solution.java) |
 | 199 | Binary Tree Right Side View | 🟡 Medium | [Link](https://leetcode.com/problems/binary-tree-right-side-view) | [Solution](./leetcode-75/0199-binary-tree-right-side-view/Solution.java) |
-| 236 | Lowest Common Ancestor of a Binary Tree | 🟡 Medium | - | [Solution](./leetcode-75/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) |
+| 236 | Lowest Common Ancestor of a Binary Tree | 🟡 Medium | [Link](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/?envType=study-plan-v2&envId=leetcode-75) | [Solution](./leetcode-75/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) |
 | 328 | Odd Even Linked List | 🟡 Medium | [Link](https://leetcode.com/problems/odd-even-linked-list) | [Solution](./leetcode-75/0328-odd-even-linked-list/Solution.java) |
 | 338 | Counting Bits | 🟢 Easy | [Link](https://leetcode.com/problems/counting-bits) | [Solution](./leetcode-75/0338-counting-bits/Solution.java) |
 | 374 | Guess Number Higher or Lower | 🟢 Easy | [Link](https://leetcode.com/problems/guess-number-higher-or-lower) | [Solution](./leetcode-75/0374-guess-number-higher-or-lower/Solution.java) |
@@ -77,13 +77,13 @@
 | 6 | Best time to buy and sell stock | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/best-time-to-buy-and-sell-stock?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0006-best-time-to-buy-and-sell-stock/Solution.java) |
 | 7 | Rotate matrix by 90 degrees | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/rotate-matrix-by-90-degrees?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0007-rotate-matrix-by-90-degrees/Solution.java) |
 | 8 | Merge Overlapping Subintervals | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/merge-overlapping-subintervals?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0008-merge-overlapping-subintervals/Solution.java) |
-| 9 | Merge two sorted arrays without extra space | 🟡 Medium | - | [Solution](./sdesheetchallenge-takeuforward/0009-merge-two-sorted-arrays-without-extra-space/Solution.java) |
+| 9 | Merge two sorted arrays without extra space | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/merge-two-sorted-arrays-without-extra-space?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0009-merge-two-sorted-arrays-without-extra-space/Solution.java) |
 | 10 | Find the Duplicate Number | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-the-duplicate-number?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0010-find-the-duplicate-number/Solution.java) |
 | 11 | Find the repeating and missing number | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0011-find-the-repeating-and-missing-number/Solution.java) |
 | 12 | Inversion of Array | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/count-inversions?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0012-inversion-of-array/Solution.java) |
 | 13 | Search in a 2D matrix | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/search-in-a-2d-matrix?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0013-search-in-a-2d-matrix/Solution.java) |
 | 14 | Pow(x, n) | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/pow(x,n)?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0014-pow-x-n/Solution.java) |
-| 15 | Majority Element-I | 🟢 Easy | - | [Solution](./sdesheetchallenge-takeuforward/0015-majority-element-i/Solution.java) |
+| 15 | Majority Element-I | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/majority-element-i?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0015-majority-element-i/Solution.java) |
 | 16 | Majority Element-II | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/majority-element-ii?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0016-majority-element-ii/Solution.java) |
 | 17 | Grid unique paths | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/grid-unique-paths?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0017-grid-unique-paths/Solution.java) |
 | 18 | Reverse Pairs | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/reverse-pairs?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0018-reverse-pairs/Solution.java) |
@@ -112,10 +112,10 @@
 | 41 | Remove duplicates from sorted array | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/remove-duplicates-from-sorted-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0041-remove-duplicates-from-sorted-array/Solution.java) |
 | 42 | Maximum Consecutive Ones | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/maximum-consecutive-ones?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0042-maximum-consecutive-ones/Solution.java) |
 | 43 | N meetings in one room | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/n-meetings-in-one-room?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0043-n-meetings-in-one-room/Solution.java) |
-| 44 | Minimum number of platforms required for a railway | 🟡 Medium | - | [Solution](./sdesheetchallenge-takeuforward/0044-minimum-number-of-platforms-required-for-a-railway/Solution.java) |
+| 44 | Minimum number of platforms required for a railway | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0044-minimum-number-of-platforms-required-for-a-railway/Solution.java) |
 | 45 | Job sequencing Problem | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0045-job-sequencing-problem/Solution.java) |
 | 46 | Fractional Knapsack | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/fractional-knapsack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0046-fractional-knapsack/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-15 14:25</i></p>
+<p align="center"><i>Last updated: 2026-06-16 22:10</i></p>

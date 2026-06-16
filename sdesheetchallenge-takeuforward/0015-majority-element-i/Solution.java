@@ -1,6 +1,5 @@
 // Problem: Majority Element-I
-// URL:
-// https://takeuforward.org/plus/dsa/problems/majority-element-i?source=strivers-sde-sheet
+// URL: https://takeuforward.org/plus/dsa/problems/majority-element-i?source=strivers-sde-sheet
 // Difficulty: Easy
 // Date Solved: 2026-06-05
 

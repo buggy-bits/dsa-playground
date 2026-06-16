@@ -1,6 +1,5 @@
 // Problem: Minimum number of platforms required for a railway
-// URL:
-// https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?source=strivers-sde-sheet
+// URL: https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?source=strivers-sde-sheet
 // Difficulty: Medium
 // Date Solved: 2026-06-15
 
