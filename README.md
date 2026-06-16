@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 46 problems
+## 📂 Sdesheetchallenge Takeuforward — 50 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -115,7 +115,11 @@
 | 44 | Minimum number of platforms required for a railway | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/minimum-number-of-platforms-required-for-a-railway?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0044-minimum-number-of-platforms-required-for-a-railway/Solution.java) |
 | 45 | Job sequencing Problem | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0045-job-sequencing-problem/Solution.java) |
 | 46 | Fractional Knapsack | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/fractional-knapsack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0046-fractional-knapsack/Solution.java) |
+| 47 | Minimum coins | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/minimum-coins?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0047-minimum-coins/Solution.java) |
+| 48 | Assign Cookies | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/assign-cookies?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0048-assign-cookies/Solution.java) |
+| 49 | Subset sum equals to target | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/subset-sum-equals-to-target?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0049-subset-sum-equals-to-target/Solution.java) |
+| 50 | Subsets II | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/subsets-ii?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0050-subsets-ii/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-16 22:10</i></p>
+<p align="center"><i>Last updated: 2026-06-16 22:44</i></p>
