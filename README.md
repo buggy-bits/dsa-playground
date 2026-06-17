@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 50 problems
+## 📂 Sdesheetchallenge Takeuforward — 54 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -119,7 +119,11 @@
 | 48 | Assign Cookies | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/assign-cookies?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0048-assign-cookies/Solution.java) |
 | 49 | Subset sum equals to target | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/subset-sum-equals-to-target?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0049-subset-sum-equals-to-target/Solution.java) |
 | 50 | Subsets II | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/subsets-ii?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0050-subsets-ii/Solution.java) |
+| 51 | Combination Sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/combination-sum?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0051-combination-sum/Solution.java) |
+| 52 | Combination Sum II | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/combination-sum-ii?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0052-combination-sum-ii/Solution.java) |
+| 53 | Palindrome partitioning | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/palindrome-partitioning?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0053-palindrome-partitioning/Solution.java) |
+| 54 | Permutation Sequence | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/permutation-sequence?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0054-permutation-sequence/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-16 22:44</i></p>
+<p align="center"><i>Last updated: 2026-06-17 17:55</i></p>
