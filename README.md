@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 54 problems
+## 📂 Sdesheetchallenge Takeuforward — 57 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -123,7 +123,10 @@
 | 52 | Combination Sum II | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/combination-sum-ii?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0052-combination-sum-ii/Solution.java) |
 | 53 | Palindrome partitioning | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/palindrome-partitioning?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0053-palindrome-partitioning/Solution.java) |
 | 54 | Permutation Sequence | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/permutation-sequence?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0054-permutation-sequence/Solution.java) |
+| 55 | Permutations of a String | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/permutations-of-a-string?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0055-permutations-of-a-string/Solution.java) |
+| 56 | N Queen | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/n-queen?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0056-n-queen/Solution.java) |
+| 57 | Sudoku Solver | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/sudoko-solver?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0057-sudoku-solver/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-17 17:55</i></p>
+<p align="center"><i>Last updated: 2026-06-18 23:44</i></p>
