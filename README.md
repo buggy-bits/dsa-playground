@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 57 problems
+## 📂 Sdesheetchallenge Takeuforward — 60 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -126,7 +126,10 @@
 | 55 | Permutations of a String | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/permutations-of-a-string?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0055-permutations-of-a-string/Solution.java) |
 | 56 | N Queen | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/n-queen?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0056-n-queen/Solution.java) |
 | 57 | Sudoku Solver | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/sudoko-solver?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0057-sudoku-solver/Solution.java) |
+| 58 | M Coloring Problem | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/m-coloring-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0058-m-coloring-problem/Solution.java) |
+| 59 | Rat in a Maze | 🔴 Hard | - | [Solution](./sdesheetchallenge-takeuforward/0059-rat-in-a-maze/Solution.java) |
+| 60 | Word Break (print all ways) | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/word-break?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0060-word-break-print-all-ways/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-18 23:44</i></p>
+<p align="center"><i>Last updated: 2026-06-19 23:54</i></p>
