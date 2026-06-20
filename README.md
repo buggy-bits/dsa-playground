@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 60 problems
+## 📂 Sdesheetchallenge Takeuforward — 64 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -129,7 +129,11 @@
 | 58 | M Coloring Problem | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/m-coloring-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0058-m-coloring-problem/Solution.java) |
 | 59 | Rat in a Maze | 🔴 Hard | - | [Solution](./sdesheetchallenge-takeuforward/0059-rat-in-a-maze/Solution.java) |
 | 60 | Word Break (print all ways) | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/word-break?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0060-word-break-print-all-ways/Solution.java) |
+| 61 | The N-th root of an integer | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-nth-root-of-a-number?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0061-the-n-th-root-of-an-integer/Solution.java) |
+| 62 | Matrix Median | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/matrix-median?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0062-matrix-median/Solution.java) |
+| 63 | Single element in sorted array | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/single-element-in-sorted-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0063-single-element-in-sorted-array/Solution.java) |
+| 64 | Search element in a sorted and rotated array/ find pivot where it is rotated | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-i?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0064-search-element-in-a-sorted-and-rotated-array-find-pivot-where-it-is-rotated/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-19 23:54</i></p>
+<p align="center"><i>Last updated: 2026-06-20 23:07</i></p>
