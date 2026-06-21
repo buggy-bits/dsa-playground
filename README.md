@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 64 problems
+## 📂 Sdesheetchallenge Takeuforward — 68 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -133,7 +133,11 @@
 | 62 | Matrix Median | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/matrix-median?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0062-matrix-median/Solution.java) |
 | 63 | Single element in sorted array | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/single-element-in-sorted-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0063-single-element-in-sorted-array/Solution.java) |
 | 64 | Search element in a sorted and rotated array/ find pivot where it is rotated | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/search-in-rotated-sorted-array-i?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0064-search-element-in-a-sorted-and-rotated-array-find-pivot-where-it-is-rotated/Solution.java) |
+| 65 | Median of 2 sorted arrays | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/median-of-2-sorted-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0065-median-of-2-sorted-arrays/Solution.java) |
+| 66 | Kth element of 2 sorted arrays | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0066-kth-element-of-2-sorted-arrays/Solution.java) |
+| 67 | Allocate Minimum Number of Pages | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/book-allocation-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0067-allocate-minimum-number-of-pages/Solution.java) |
+| 68 | Aggressive Cows | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/aggressive-cows?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0068-aggressive-cows/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-20 23:07</i></p>
+<p align="center"><i>Last updated: 2026-06-21 22:23</i></p>
