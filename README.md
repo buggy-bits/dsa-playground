@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 68 problems
+## 📂 Sdesheetchallenge Takeuforward — 71 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -137,7 +137,10 @@
 | 66 | Kth element of 2 sorted arrays | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0066-kth-element-of-2-sorted-arrays/Solution.java) |
 | 67 | Allocate Minimum Number of Pages | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/book-allocation-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0067-allocate-minimum-number-of-pages/Solution.java) |
 | 68 | Aggressive Cows | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/aggressive-cows?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0068-aggressive-cows/Solution.java) |
+| 69 | Implement Max Heap | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/implement-max-heap?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0069-implement-max-heap/Solution.java) |
+| 70 | K-th Largest element in an array | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/k-th-largest-element-in-an-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0070-k-th-largest-element-in-an-array/Solution.java) |
+| 71 | Maximum Sum Combination | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/maximum-sum-combination?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0071-maximum-sum-combination/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-21 22:23</i></p>
+<p align="center"><i>Last updated: 2026-06-22 23:44</i></p>
