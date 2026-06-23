@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 71 problems
+## 📂 Sdesheetchallenge Takeuforward — 74 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -140,7 +140,10 @@
 | 69 | Implement Max Heap | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/implement-max-heap?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0069-implement-max-heap/Solution.java) |
 | 70 | K-th Largest element in an array | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/k-th-largest-element-in-an-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0070-k-th-largest-element-in-an-array/Solution.java) |
 | 71 | Maximum Sum Combination | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/maximum-sum-combination?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0071-maximum-sum-combination/Solution.java) |
+| 72 | Find Median from Data Stream | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/find-median-from-data-stream?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0072-find-median-from-data-stream/Solution.java) |
+| 73 | Merge K Sorted Arrays | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/merge-k-sorted-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0073-merge-k-sorted-arrays/Solution.java) |
+| 74 | Top K Frequent Elements | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/top-k-frequent-elements?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0074-top-k-frequent-elements/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-22 23:44</i></p>
+<p align="center"><i>Last updated: 2026-06-23 21:54</i></p>
