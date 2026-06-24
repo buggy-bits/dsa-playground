@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 74 problems
+## 📂 Sdesheetchallenge Takeuforward — 78 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -143,7 +143,11 @@
 | 72 | Find Median from Data Stream | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/find-median-from-data-stream?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0072-find-median-from-data-stream/Solution.java) |
 | 73 | Merge K Sorted Arrays | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/merge-k-sorted-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0073-merge-k-sorted-arrays/Solution.java) |
 | 74 | Top K Frequent Elements | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/top-k-frequent-elements?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0074-top-k-frequent-elements/Solution.java) |
+| 75 | Implement Stack using Arrays | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/implement-stack-using-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0075-implement-stack-using-arrays/Solution.java) |
+| 76 | Implement Queue using Arrays | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/implement-queue-using-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0076-implement-queue-using-arrays/Solution.java) |
+| 77 | Implement Stack using Queue | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/implement-stack-using-queue?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0077-implement-stack-using-queue/Solution.java) |
+| 78 | Implement Queue using Stack | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/implement-queue-using-stack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0078-implement-queue-using-stack/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-23 21:54</i></p>
+<p align="center"><i>Last updated: 2026-06-24 23:26</i></p>
