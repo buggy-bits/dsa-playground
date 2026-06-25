@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 78 problems
+## 📂 Sdesheetchallenge Takeuforward — 81 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -147,7 +147,10 @@
 | 76 | Implement Queue using Arrays | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/implement-queue-using-arrays?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0076-implement-queue-using-arrays/Solution.java) |
 | 77 | Implement Stack using Queue | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/implement-stack-using-queue?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0077-implement-stack-using-queue/Solution.java) |
 | 78 | Implement Queue using Stack | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/implement-queue-using-stack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0078-implement-queue-using-stack/Solution.java) |
+| 79 | Balanced Paranthesis | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/balanced-paranthesis?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0079-balanced-paranthesis/Solution.java) |
+| 80 | Next Greater Element | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/next-greater-element?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0080-next-greater-element/Solution.java) |
+| 81 | Sort a Stack | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/sort-a-stack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0081-sort-a-stack/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-24 23:26</i></p>
+<p align="center"><i>Last updated: 2026-06-25 23:45</i></p>
