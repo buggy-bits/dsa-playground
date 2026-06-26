@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 81 problems
+## 📂 Sdesheetchallenge Takeuforward — 84 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -150,7 +150,10 @@
 | 79 | Balanced Paranthesis | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/balanced-paranthesis?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0079-balanced-paranthesis/Solution.java) |
 | 80 | Next Greater Element | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/next-greater-element?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0080-next-greater-element/Solution.java) |
 | 81 | Sort a Stack | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/sort-a-stack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0081-sort-a-stack/Solution.java) |
+| 82 | Next Smaller Element | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/next-smaller-element?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0082-next-smaller-element/Solution.java) |
+| 83 | LRU Cache | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/lru-cache?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0083-lru-cache/Solution.java) |
+| 84 | LFU Cache | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/lfu-cache?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0084-lfu-cache/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-25 23:45</i></p>
+<p align="center"><i>Last updated: 2026-06-26 23:42</i></p>
