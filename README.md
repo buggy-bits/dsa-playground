@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 88 problems
+## 📂 Sdesheetchallenge Takeuforward — 91 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -157,7 +157,10 @@
 | 86 | Sliding Window Maximum | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/largest-rectangle-in-a-histogram?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0086-sliding-window-maximum/Solution.java) |
 | 87 | Implement Min Stack | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/implement-min-stack?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0087-implement-min-stack/Solution.java) |
 | 88 | Rotten Oranges | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/rotten-oranges?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0088-rotten-oranges/Solution.java) |
+| 89 | Stock span problem | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/stock-span-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0089-stock-span-problem/Solution.java) |
+| 90 | Maximum of Minimums for Every Window Size | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-of-minimums-for-every-window-size?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0090-maximum-of-minimums-for-every-window-size/Solution.java) |
+| 91 | Celebrity Problem | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/celebrity-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0091-celebrity-problem/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-27 23:47</i></p>
+<p align="center"><i>Last updated: 2026-06-29 00:26</i></p>
