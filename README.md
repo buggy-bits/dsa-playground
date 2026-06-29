@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 91 problems
+## 📂 Sdesheetchallenge Takeuforward — 94 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -160,7 +160,10 @@
 | 89 | Stock span problem | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/stock-span-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0089-stock-span-problem/Solution.java) |
 | 90 | Maximum of Minimums for Every Window Size | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-of-minimums-for-every-window-size?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0090-maximum-of-minimums-for-every-window-size/Solution.java) |
 | 91 | Celebrity Problem | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/celebrity-problem?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0091-celebrity-problem/Solution.java) |
+| 92 | Reverse every word in a string | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0092-reverse-every-word-in-a-string/Solution.java) |
+| 93 | Longest Palindrome in a string | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-palindromic-substring?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0093-longest-palindrome-in-a-string/Solution.java) |
+| 94 | Roman to Integer | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/roman-to-integer?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0094-roman-to-integer/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-29 00:26</i></p>
+<p align="center"><i>Last updated: 2026-06-29 23:55</i></p>
