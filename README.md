@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 94 problems
+## 📂 Sdesheetchallenge Takeuforward — 97 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -163,7 +163,10 @@
 | 92 | Reverse every word in a string | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0092-reverse-every-word-in-a-string/Solution.java) |
 | 93 | Longest Palindrome in a string | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/longest-palindromic-substring?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0093-longest-palindrome-in-a-string/Solution.java) |
 | 94 | Roman to Integer | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/roman-to-integer?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0094-roman-to-integer/Solution.java) |
+| 95 | Implement ATOI/STRSTR | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0095-implement-atoi-strstr/Solution.java) |
+| 96 | Longest Common Prefix | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/longest-common-prefix?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0096-longest-common-prefix/Solution.java) |
+| 97 | Rabin Karp Algorithm | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/rabin-karp-algorithm?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0097-rabin-karp-algorithm/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-29 23:55</i></p>
+<p align="center"><i>Last updated: 2026-06-30 23:41</i></p>
