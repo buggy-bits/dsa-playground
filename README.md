@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 97 problems
+## 📂 Sdesheetchallenge Takeuforward — 100 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -166,7 +166,10 @@
 | 95 | Implement ATOI/STRSTR | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/string-to-integer-atoi?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0095-implement-atoi-strstr/Solution.java) |
 | 96 | Longest Common Prefix | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/longest-common-prefix?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0096-longest-common-prefix/Solution.java) |
 | 97 | Rabin Karp Algorithm | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/rabin-karp-algorithm?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0097-rabin-karp-algorithm/Solution.java) |
+| 98 | Z function | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/z-function) | [Solution](./sdesheetchallenge-takeuforward/0098-z-function/Solution.java) |
+| 99 | KMP Algorithm or LPS array | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/kmp-algorithm-or-lps-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0099-kmp-algorithm-or-lps-array/Solution.java) |
+| 100 | Minimum insertions to make string palindrome | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/minimum-insertions-to-make-string-palindrome?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0100-minimum-insertions-to-make-string-palindrome/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-06-30 23:41</i></p>
+<p align="center"><i>Last updated: 2026-07-01 23:56</i></p>
