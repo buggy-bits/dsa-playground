@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 100 problems
+## 📂 Sdesheetchallenge Takeuforward — 103 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -169,7 +169,10 @@
 | 98 | Z function | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/z-function) | [Solution](./sdesheetchallenge-takeuforward/0098-z-function/Solution.java) |
 | 99 | KMP Algorithm or LPS array | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/kmp-algorithm-or-lps-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0099-kmp-algorithm-or-lps-array/Solution.java) |
 | 100 | Minimum insertions to make string palindrome | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/minimum-insertions-to-make-string-palindrome?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0100-minimum-insertions-to-make-string-palindrome/Solution.java) |
+| 101 | Valid Anagram | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/valid-anagram?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0101-valid-anagram/Solution.java) |
+| 102 | Count and say | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/count-and-say?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0102-count-and-say/Solution.java) |
+| 103 | Compare version numbers | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/compare-version-numbers?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0103-compare-version-numbers/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-01 23:56</i></p>
+<p align="center"><i>Last updated: 2026-07-03 00:06</i></p>
