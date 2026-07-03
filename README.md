@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 103 problems
+## 📂 Sdesheetchallenge Takeuforward — 107 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -172,7 +172,11 @@
 | 101 | Valid Anagram | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/valid-anagram?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0101-valid-anagram/Solution.java) |
 | 102 | Count and say | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/count-and-say?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0102-count-and-say/Solution.java) |
 | 103 | Compare version numbers | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/compare-version-numbers?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0103-compare-version-numbers/Solution.java) |
+| 104 | Inorder Traversal | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/inorder-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0104-inorder-traversal/Solution.java) |
+| 105 | Preorder Traversal | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/preorder-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0105-preorder-traversal/Solution.java) |
+| 106 | Postorder Traversal | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/postorder-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0106-postorder-traversal/Solution.java) |
+| 107 | Morris Inorder Traversal | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/morris-inorder-traversal-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0107-morris-inorder-traversal/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-03 00:06</i></p>
+<p align="center"><i>Last updated: 2026-07-03 23:53</i></p>
