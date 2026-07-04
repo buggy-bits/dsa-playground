@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 107 problems
+## 📂 Sdesheetchallenge Takeuforward — 111 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -176,7 +176,11 @@
 | 105 | Preorder Traversal | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/preorder-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0105-preorder-traversal/Solution.java) |
 | 106 | Postorder Traversal | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/postorder-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0106-postorder-traversal/Solution.java) |
 | 107 | Morris Inorder Traversal | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/morris-inorder-traversal-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0107-morris-inorder-traversal/Solution.java) |
+| 108 | Morris Preorder Traversal | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/morris-preorder-traversal-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0108-morris-preorder-traversal/Solution.java) |
+| 109 | Right/Left View of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0109-right-left-view-of-bt/Solution.java) |
+| 110 | Bottom view of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/bottom-view-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0110-bottom-view-of-bt/Solution.java) |
+| 111 | Top View of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/top-view-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0111-top-view-of-bt/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-03 23:53</i></p>
+<p align="center"><i>Last updated: 2026-07-04 22:58</i></p>
