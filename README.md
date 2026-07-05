@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 111 problems
+## 📂 Sdesheetchallenge Takeuforward — 115 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -180,7 +180,11 @@
 | 109 | Right/Left View of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0109-right-left-view-of-bt/Solution.java) |
 | 110 | Bottom view of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/bottom-view-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0110-bottom-view-of-bt/Solution.java) |
 | 111 | Top View of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/top-view-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0111-top-view-of-bt/Solution.java) |
+| 112 | Pre, Post, Inorder in one traversal | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0112-pre-post-inorder-in-one-traversal/Solution.java) |
+| 113 | Vertical Order Traversal | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/vertical-order-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0113-vertical-order-traversal/Solution.java) |
+| 114 | Print root to leaf path in BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/print-root-to-note-path-in-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0114-print-root-to-leaf-path-in-bt/Solution.java) |
+| 115 | Maximum Width of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-width-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0115-maximum-width-of-bt/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-04 22:58</i></p>
+<p align="center"><i>Last updated: 2026-07-06 00:43</i></p>
