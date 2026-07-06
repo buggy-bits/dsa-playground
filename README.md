@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 115 problems
+## 📂 Sdesheetchallenge Takeuforward — 119 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -184,7 +184,11 @@
 | 113 | Vertical Order Traversal | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/vertical-order-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0113-vertical-order-traversal/Solution.java) |
 | 114 | Print root to leaf path in BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/print-root-to-note-path-in-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0114-print-root-to-leaf-path-in-bt/Solution.java) |
 | 115 | Maximum Width of BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-width-of-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0115-maximum-width-of-bt/Solution.java) |
+| 116 | Level Order Traversal | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/level-order-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0116-level-order-traversal/Solution.java) |
+| 117 | Maximum Depth in BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-depth-in-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0117-maximum-depth-in-bt/Solution.java) |
+| 118 | Diameter of Binary Tree | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/diameter-of-binary-tree?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0118-diameter-of-binary-tree/Solution.java) |
+| 119 | Check for balanced binary tree | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0119-check-for-balanced-binary-tree/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-06 00:43</i></p>
+<p align="center"><i>Last updated: 2026-07-06 23:19</i></p>
