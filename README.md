@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 119 problems
+## 📂 Sdesheetchallenge Takeuforward — 123 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -188,7 +188,11 @@
 | 117 | Maximum Depth in BT | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-depth-in-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0117-maximum-depth-in-bt/Solution.java) |
 | 118 | Diameter of Binary Tree | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/diameter-of-binary-tree?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0118-diameter-of-binary-tree/Solution.java) |
 | 119 | Check for balanced binary tree | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0119-check-for-balanced-binary-tree/Solution.java) |
+| 120 | LCA in BT | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/lca-in-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0120-lca-in-bt/Solution.java) |
+| 121 | Check if two trees are identical or not | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-if-two-trees-are-identical-or-not?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0121-check-if-two-trees-are-identical-or-not/Solution.java) |
+| 122 | Zig Zag or Spiral Traversal | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/zig-zag-or-spiral-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0122-zig-zag-or-spiral-traversal/Solution.java) |
+| 123 | Boundary Traversal | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/boundary-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0123-boundary-traversal/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-06 23:19</i></p>
+<p align="center"><i>Last updated: 2026-07-07 23:10</i></p>
