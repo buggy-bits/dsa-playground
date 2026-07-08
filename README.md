@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 123 problems
+## 📂 Sdesheetchallenge Takeuforward — 126 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -192,7 +192,10 @@
 | 121 | Check if two trees are identical or not | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-if-two-trees-are-identical-or-not?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0121-check-if-two-trees-are-identical-or-not/Solution.java) |
 | 122 | Zig Zag or Spiral Traversal | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/zig-zag-or-spiral-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0122-zig-zag-or-spiral-traversal/Solution.java) |
 | 123 | Boundary Traversal | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/boundary-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0123-boundary-traversal/Solution.java) |
+| 124 | Maximum path sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-path-sum-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0124-maximum-path-sum/Solution.java) |
+| 125 | Construct a BT from Preorder and Inorder | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-preorder-and-inorder?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0125-construct-a-bt-from-preorder-and-inorder/Solution.java) |
+| 126 | Construct a BT from Postorder and Inorder | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-postorder-and-inorder?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0126-construct-a-bt-from-postorder-and-inorder/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-07 23:10</i></p>
+<p align="center"><i>Last updated: 2026-07-09 00:04</i></p>
