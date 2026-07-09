@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 126 problems
+## 📂 Sdesheetchallenge Takeuforward — 129 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -195,7 +195,10 @@
 | 124 | Maximum path sum | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/maximum-path-sum-?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0124-maximum-path-sum/Solution.java) |
 | 125 | Construct a BT from Preorder and Inorder | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-preorder-and-inorder?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0125-construct-a-bt-from-preorder-and-inorder/Solution.java) |
 | 126 | Construct a BT from Postorder and Inorder | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/construct-a-bt-from-postorder-and-inorder?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0126-construct-a-bt-from-postorder-and-inorder/Solution.java) |
+| 127 | Symmetric Binary Tree | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-for-symmetrical-bts?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0127-symmetric-binary-tree/Solution.java) |
+| 128 | Flatten Binary Tree to Linked List | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/flatten-binary-tree-to-linked-list?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0128-flatten-binary-tree-to-linked-list/Solution.java) |
+| 129 | Children Sum Property in Binary Tree | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/children-sum-property-in-binary-tree?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0129-children-sum-property-in-binary-tree/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-09 00:04</i></p>
+<p align="center"><i>Last updated: 2026-07-09 23:59</i></p>
