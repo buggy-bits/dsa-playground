@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 129 problems
+## 📂 Sdesheetchallenge Takeuforward — 132 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -198,7 +198,10 @@
 | 127 | Symmetric Binary Tree | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-for-symmetrical-bts?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0127-symmetric-binary-tree/Solution.java) |
 | 128 | Flatten Binary Tree to Linked List | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/flatten-binary-tree-to-linked-list?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0128-flatten-binary-tree-to-linked-list/Solution.java) |
 | 129 | Children Sum Property in Binary Tree | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/children-sum-property-in-binary-tree?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0129-children-sum-property-in-binary-tree/Solution.java) |
+| 130 | Populating Next Right Pointers in Each Node | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/populating-next-right-pointers-in-each-node?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0130-populating-next-right-pointers-in-each-node/Solution.java) |
+| 131 | Search in BST | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/search-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0131-search-in-bst/Solution.java) |
+| 132 | Construct BST from given keys | 🟢 Easy | [Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./sdesheetchallenge-takeuforward/0132-construct-bst-from-given-keys/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-09 23:59</i></p>
+<p align="center"><i>Last updated: 2026-07-10 23:28</i></p>
