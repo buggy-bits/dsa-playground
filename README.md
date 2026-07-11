@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 132 problems
+## 📂 Sdesheetchallenge Takeuforward — 136 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -201,7 +201,11 @@
 | 130 | Populating Next Right Pointers in Each Node | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/populating-next-right-pointers-in-each-node?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0130-populating-next-right-pointers-in-each-node/Solution.java) |
 | 131 | Search in BST | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/search-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0131-search-in-bst/Solution.java) |
 | 132 | Construct BST from given keys | 🟢 Easy | [Link](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./sdesheetchallenge-takeuforward/0132-construct-bst-from-given-keys/Solution.java) |
+| 133 | Construct a BST from a preorder traversal | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/construct-a-bst-from-a-preorder-traversal?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0133-construct-a-bst-from-a-preorder-traversal/Solution.java) |
+| 134 | Check if a tree is a BST or not | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-if-a-tree-is-a-bst-or-not?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0134-check-if-a-tree-is-a-bst-or-not/Solution.java) |
+| 135 | LCA in BST | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/lca-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0135-lca-in-bst/Solution.java) |
+| 136 | Inorder successor and predecessor in BST | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/inorder-successor-and-predecessor-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0136-inorder-successor-and-predecessor-in-bst/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-10 23:28</i></p>
+<p align="center"><i>Last updated: 2026-07-11 22:21</i></p>
