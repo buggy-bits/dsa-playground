@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 136 problems
+## 📂 Sdesheetchallenge Takeuforward — 138 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -205,7 +205,9 @@
 | 134 | Check if a tree is a BST or not | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/check-if-a-tree-is-a-bst-or-not?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0134-check-if-a-tree-is-a-bst-or-not/Solution.java) |
 | 135 | LCA in BST | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/lca-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0135-lca-in-bst/Solution.java) |
 | 136 | Inorder successor and predecessor in BST | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/inorder-successor-and-predecessor-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0136-inorder-successor-and-predecessor-in-bst/Solution.java) |
+| 137 | Floor & Ceil in BST | 🟢 Easy | [Link](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0137-floor-ceil-in-bst/Solution.java) |
+| 138 | Kth Smallest and Largest element in BST | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/kth-smallest-and-largest-element-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0138-kth-smallest-and-largest-element-in-bst/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-11 22:21</i></p>
+<p align="center"><i>Last updated: 2026-07-13 00:05</i></p>
