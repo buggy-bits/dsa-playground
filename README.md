@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 142 problems
+## 📂 Sdesheetchallenge Takeuforward — 145 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -211,7 +211,10 @@
 | 140 | BST iterator | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/two-sum-in-bst?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0140-bst-iterator/Solution.java) |
 | 141 | Size of the largest BST in a Binary Tree | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/largest-bst-in-binary-tree?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0141-size-of-the-largest-bst-in-a-binary-tree/Solution.java) |
 | 142 | Serialize and De-serialize BT | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/serialize-and-de-serialize-bt?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0142-serialize-and-de-serialize-bt/Solution.java) |
+| 143 | Binary Tree to Doubly Linked List | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/binary-tree-to-doubly-linked-list?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0143-binary-tree-to-doubly-linked-list/Solution.java) |
+| 144 | Find Median in a Stream | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-median-in-a-stream?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0144-find-median-in-a-stream/Solution.java) |
+| 145 | Kth largest element in a stream of running integers | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/kth-largest-element-in-a-stream-of-running-integers?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0145-kth-largest-element-in-a-stream-of-running-integers/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-13 23:53</i></p>
+<p align="center"><i>Last updated: 2026-07-14 23:55</i></p>
