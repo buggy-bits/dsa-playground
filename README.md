@@ -65,7 +65,7 @@
 
 ---
 
-## 📂 Sdesheetchallenge Takeuforward — 145 problems
+## 📂 Sdesheetchallenge Takeuforward — 148 problems
 
 | P.No | Problem | Difficulty | Problem  | My Solution |
 |:----:|---------|:----------:|:--------:|:-----------:|
@@ -214,7 +214,10 @@
 | 143 | Binary Tree to Doubly Linked List | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/binary-tree-to-doubly-linked-list?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0143-binary-tree-to-doubly-linked-list/Solution.java) |
 | 144 | Find Median in a Stream | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/find-median-in-a-stream?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0144-find-median-in-a-stream/Solution.java) |
 | 145 | Kth largest element in a stream of running integers | 🔴 Hard | [Link](https://takeuforward.org/plus/dsa/problems/kth-largest-element-in-a-stream-of-running-integers?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0145-kth-largest-element-in-a-stream-of-running-integers/Solution.java) |
+| 146 | Distinct Numbers in Each Subarray | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/distinct-numbers-in-each-subarray?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0146-distinct-numbers-in-each-subarray/Solution.java) |
+| 147 | K-th largest element in an unsorted array. | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/k-th-largest-element-in-an-array?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0147-k-th-largest-element-in-an-unsorted-array/Solution.java) |
+| 148 | Flood-fill Algorithm | 🟡 Medium | [Link](https://takeuforward.org/plus/dsa/problems/flood-fill-algorithm?source=strivers-sde-sheet) | [Solution](./sdesheetchallenge-takeuforward/0148-flood-fill-algorithm/Solution.java) |
 
 ---
 
-<p align="center"><i>Last updated: 2026-07-14 23:55</i></p>
+<p align="center"><i>Last updated: 2026-07-15 17:01</i></p>
